@@ -1,0 +1,6 @@
+﻿  audio-Receiver.cpp
+E:\CDTools\personinput\repos\audio-Receiver\audio-Receiver.cpp(271,55): warning C4311: “类型强制转换”: 从“HANDLE”到“DWORD”的指针截断
+E:\CDTools\personinput\repos\audio-Receiver\audio-Receiver.cpp(271,55): warning C4302: “类型强制转换”: 从“HANDLE”到“DWORD”截断
+  audio-Receiver.vcxproj -> E:\CDTools\personinput\repos\audio-Receiver\x64\Debug\audio-Receiver.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
