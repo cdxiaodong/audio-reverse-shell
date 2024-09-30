@@ -1,0 +1,9 @@
+﻿  audio-Transmitter.cpp
+E:\CDTools\personinput\repos\audio-Transmitter\audio-Transmitter.cpp(252,19): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  audio-Transmitter.vcxproj -> E:\CDTools\personinput\repos\audio-Transmitter\x64\Release\audio-Transmitter.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
